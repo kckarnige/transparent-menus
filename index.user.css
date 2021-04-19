@@ -1,0 +1,44 @@
+/* ==UserStyle==
+@name           Transparent Menus
+@namespace      https://github.com/kckarnige/discord-transparent-menus
+@version        1.0.0
+@description    A simple, self-explanitory Discord theme
+@author         KayoticCarnige
+==/UserStyle== */
+
+@-moz-document domain("discord.com") {
+.baseLayer-35bLyl.stop-animations, .baseLayer-35bLyl.animating-rRxada {
+    transform: none !important;
+    pointer-events: none;
+}
+
+
+div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG, .backdrop-1wrmKB {
+    backdrop-filter: blur(5px) !important;
+    z-index: 100;
+}
+
+.standardSidebarView-3F1I7i, .contentRegion-3nDuYy, div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG {
+    background-color: transparent !important;
+}
+
+.sidebarRegionScroller-3MXcoP {
+    background-color: #2f313696 !important;
+}
+
+.contentRegionScroller-26nc1e {
+    background-color: #2f313696 !important;
+}
+
+.baseLayer-35bLyl.stop-animations {
+    opacity: 100% !important;
+}
+
+.layer-2KE1M9 {
+    z-index: 101;
+}
+
+#popout_3354 {
+    z-index: 102;
+}
+}
