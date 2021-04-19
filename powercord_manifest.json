@@ -1,0 +1,8 @@
+{
+    "name": "Transparent Menus",
+    "description": "A simple, self-explanitory Discord theme",
+    "version": "1.0.0",
+    "author": "KayoticCarnige",
+    "theme": "transparentmenu.theme.css",
+    "license": "MIT"
+}
