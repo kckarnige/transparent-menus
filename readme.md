@@ -7,6 +7,6 @@
 
 [BetterDiscord Theme Download](https://betterdiscord.net/ghdl/?url=https://raw.githubusercontent.com/kckarnige/discord-transparent-menus/main/transparentmenu.theme.css)
 
-Powercord Install:
+Powercord Theme Install:
 
 ```git clone https://github.com/kckarnige/discord-transparent-menus```
