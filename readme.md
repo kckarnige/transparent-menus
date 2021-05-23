@@ -13,4 +13,4 @@ Powercord Theme Install:
 
 Import CSS:
 
-```import url('https://kckarnige.github.io/discord-transparent-menus/transparentmenu.theme.css');```
+```@import url('https://kckarnige.github.io/discord-transparent-menus/transparentmenu.theme.css');```
