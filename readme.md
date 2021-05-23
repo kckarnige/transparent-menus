@@ -10,3 +10,7 @@
 Powercord Theme Install:
 
 ```git clone https://github.com/kckarnige/discord-transparent-menus```
+
+Import CSS:
+
+```https://kckarnige.github.io/discord-transparent-menus/transparentmenu.theme.css```
