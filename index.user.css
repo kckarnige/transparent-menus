@@ -6,6 +6,6 @@
 @author         KayoticCarnige
 ==/UserStyle== */
 
-@-moz-document domain("discord.com") {
+@-moz-document domain("discord.com"), domain("dev.fosscord.com") {
     @import url('https://kckarnige.is-a.dev/discord-transparent-menus/base.css');
 }
