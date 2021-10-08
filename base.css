@@ -8,7 +8,7 @@ div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].l
     z-index: 100  !important;
 }
 
-.standardSidebarView-3F1I7i, .contentRegion-3nDuYy, div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG, .fade-2kXiP2, aside.sidebarScrollable-1qPI87, .member-3-YXUe {
+.standardSidebarView-3F1I7i, .contentRegion-3nDuYy, div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG, aside.sidebarScrollable-1qPI87 {
     background-color: transparent !important;
 }
 
