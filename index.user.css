@@ -1,11 +1,11 @@
 /* ==UserStyle==
 @name           Transparent Menus
-@namespace      https://github.com/kckarnige/discord-transparent-menus
+@namespace      https://github.com/kckarnige/transparent-menus
 @version        1.5.0
 @description    A simple, self-explanitory Discord theme
 @author         KayoticCarnige
 ==/UserStyle== */
 
-@-moz-document domain("discord.com"), domain("dev.fosscord.com") {
-    @import url('https://kckarnige.is-a.dev/discord-transparent-menus/base.css');
+@-moz-document domain("discord.com") {
+    @import url('https://kckarnige.is-a.dev/transparent-menus/base.css');
 }
