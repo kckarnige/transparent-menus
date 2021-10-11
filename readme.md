@@ -1,6 +1,6 @@
-<h3 align="center">Transparent Menus - Discord Theme</h3>
+<h3 align="center"><img width="300px" src="https://user-images.githubusercontent.com/32397453/136861568-931a945f-e2b1-4439-8ec1-6f9fc882389d.png"></h3>
 
-<p align="center"><i>I made this out of boredom, and it turned out, surprisingly, exacty how I wanted it to :)</i></p>
+<p align="center"><i>Frosted Glass looks dope af, if you don't agree, you're a liar.</i></p>
 
 <h1> </h1>
 
