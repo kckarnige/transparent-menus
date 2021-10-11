@@ -1,6 +1,6 @@
 <h3 align="center"><img width="300px" src="https://raw.githubusercontent.com/kckarnige/transparent-menus/main/banner.png"></h3>
 
-<p align="center"><i>Frosted Glass looks dope af, if you don't agree, you're a liar.</i></p>
+<p align="center"><i>A Discord theme for those who like frosted glass</i></p>
 
 <h1> </h1>
 
