@@ -1,4 +1,4 @@
-<h3 align="center"><img width="300px" src="https://user-images.githubusercontent.com/32397453/136861568-931a945f-e2b1-4439-8ec1-6f9fc882389d.png"></h3>
+<h3 align="center"><img width="300px" src="https://raw.githubusercontent.com/kckarnige/transparent-menus/main/banner.png"></h3>
 
 <p align="center"><i>Frosted Glass looks dope af, if you don't agree, you're a liar.</i></p>
 
