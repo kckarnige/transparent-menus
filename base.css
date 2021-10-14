@@ -8,15 +8,15 @@ div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].l
     z-index: 100  !important;
 }
 	
-.theme-dark .sidebarRegionScroller-3MXcoP, .theme-dark .sidebarScrollable-1qPI87, .theme-dark .contentRegionScroller-26nc1e {
+.theme-dark .sidebarRegionScroller-3MXcoP, .theme-dark .sidebarScrollable-1qPI87, .theme-dark .contentRegionScroller-26nc1e, .theme-dark .customContainer-1RHXqt {
     background-color: #2f313696;
 }
 
-.theme-light .sidebarRegionScroller-3MXcoP, .theme-light .sidebarScrollable-1qPI87, .theme-light .contentRegionScroller-26nc1e {
+.theme-light .sidebarRegionScroller-3MXcoP, .theme-light .sidebarScrollable-1qPI87, .theme-light .contentRegionScroller-26nc1e, .theme-light .customContainer-1RHXqt {
     background-color: #bec7db96;
 }
 
-.standardSidebarView-3F1I7i, .contentRegion-3nDuYy, div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG, aside.sidebarScrollable-1qPI87, aside > .scroller-305q3I {
+.standardSidebarView-3F1I7i, .contentRegion-3nDuYy, div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG, aside.sidebarScrollable-1qPI87, aside > .scroller-305q3I, [aria-label="GUILD_SETTINGS"] .contentRegion-3nDuYy {
     background-color: transparent !important;
 }
 
