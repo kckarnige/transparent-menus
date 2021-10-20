@@ -16,7 +16,7 @@ div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].l
     background-color: #bec7db96;
 }
 
-.standardSidebarView-3F1I7i, .contentRegion-3nDuYy, div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG, aside.sidebarScrollable-1qPI87, aside > .scroller-305q3I, [aria-label="GUILD_SETTINGS"] .contentRegion-3nDuYy, .header-2mZ9Ov.stickyHeader-hH_ZLl {
+.standardSidebarView-3F1I7i, .contentRegion-3nDuYy, div[aria-label="USER_SETTINGS"].layer-3QrUeG, div[aria-label="GUILD_SETTINGS"].layer-3QrUeG, div[aria-label="CHANNEL_SETTINGS"].layer-3QrUeG, aside.sidebarScrollable-1qPI87, aside > .scroller-305q3I, [aria-label="GUILD_SETTINGS"] .contentRegion-3nDuYy, .header-2mZ9Ov.stickyHeader-hH_ZLl,.sidebar-dLM-kh .titleContainer-2CXtJo {
     background-color: transparent !important;
 }
 
